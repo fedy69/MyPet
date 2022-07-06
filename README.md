@@ -1,4 +1,4 @@
-### landing page url : https://fedy69.github.io/mypet.github.io/ 
+### landing page url : https://fedy69.github.io/mypet.github.io/
 [![](https://i.ibb.co/h101xd1/logo-1.png)]()
 
 ------------
@@ -12,13 +12,6 @@
 
 
 
-
-
-
-
-
-
-------------
 
 
 
@@ -50,12 +43,25 @@
 #### Step 3 : Run the Project
 - Open the browser and go to http://localhost/MyPet
 - Create new account 
+- 
+---
+### These are the following features of Mypet
+**- Registers User**
+###### -In the section you can register your basic information -
+**- Login User-**
+###### In this section you can login your email and password
+**- Home Page-**
+###### In this section you can view all the dogs available for adoption 
+**- Update Profile-**
+###### In this section you can edit you personal information
+**- Live chat -**
+###### In this section you can contact the shelter for more information using live chat
 
 #### To do list:
 
 * [ ] Add  API to the website 
 * [ ] Add Admin dashbord 
-* [ ] Add Abilitie to post and edit future
+* [ ] Add Ability to post and edit future
 * [ ] Add Mobile App linked with the website 
 * [ ] Full protection of data from injections
 * [ ] Real time notifications for post likes and friend requests
